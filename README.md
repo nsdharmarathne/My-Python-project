@@ -1,57 +1,46 @@
-# My Previews Python Projects
-## Assignment 3
+# Overview
+This repository contains Python programming tasks that cover fundamental concepts such as user input, conditional statements, loops, functions, and object-oriented programming (OOP). These assignments were completed as part of my pathway program Introduction to computer science subject. 
 
-### Overview
+## Task Overview
 
-The five Python programming tasks in this exercise focus on lambda expressions, functions, and object-oriented programming (OOP) concepts. I completed this assignment using Jupyter Notebook.
+✅ **Task 1: Print a Name**  
+A simple program that prints my full name to the console.
 
-**Task Overview**
+✅ **Task 2: Greeting with User Input**  
+Takes a user's name as input and prints a personalized greeting.
 
-✅ Task 1: Lambda Function for Multiplication
+✅ **Task 3: Sum of Two Numbers**  
+Asks the user for two numbers, adds them together, and displays the result.
 
-Implemented a lambda function to multiply two numbers.
-Demonstrates the power of anonymous functions in Python.
+✅ **Task 4: Mathematical Operations**  
+Performs addition, multiplication, and exponentiation based on predefined numbers.
 
-✅ Task 2: Function for Circle Area Calculation
+✅ **Task 5: Password Generator**  
+Generates a password using a user’s name, birth year, and age following a specific format.
 
-Created a function that calculates the area of a circle given its radius.
-Reinforces the use of mathematical formulas in functions.
+✅ **Task 6: Even or Odd Checker**  
+Determines if given numbers are even or odd and prints the appropriate message.
 
-✅ Task 3: Simple Calculator Function
+✅ **Task 7: Sum of Numbers Up to N**  
+Calculates the sum of all numbers from 0 to a given integer input by the user.
 
-Developed a basic calculator function that performs addition, subtraction, multiplication, and division.
-Allows user input for operations.
+✅ **Task 8: Number Guessing Game**  
+A guessing game where the player must guess a randomly chosen number with hints.
 
-✅ Task 4: Rectangle Class (OOP)
+✅ **Task 9: Multiplayer Number Guessing Game**  
+Extends the previous game to support two players, comparing their attempts to determine the winner.
 
-Implemented a Rectangle class with attributes for width and height.
-Includes methods to calculate the area and perimeter.
+## How to Run
+1. Open the Python files in a Python environment such as Jupyter Notebook, VS Code, or any IDE.
+2. Run the scripts to execute the solutions.
+3. Follow the user input prompts for interactive tasks.
 
-✅ Task 5: Shape and Square Classes (OOP & Inheritance)
+## Technologies Used
+- **Python**
+- **Jupyter Notebook (optional)**
+- **Object-Oriented Programming (OOP)**
+- **Lambda Functions**
+- **Conditional Statements & Loops**
 
-Created a base Shape class and derived a Square class from it.
-Illustrates the principles of inheritance and polymorphism in OOP.
 
-**How to Run**
 
-Open the Assignment_03.ipynb file in Jupyter Notebook.
-Run all cells to execute the solutions.
-Installation
-
-**Technologies Used**
-
-Python
-
-Jupyter Notebook
-
-Object-Oriented Programming (OOP)
-
-Lambda Functions
-
-Contributing
-
-Feel free to submit issues or fork the repository to contribute improvements.
-
-License
-
-This project is open-source under the MIT License.
